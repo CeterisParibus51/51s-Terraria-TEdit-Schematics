@@ -12,7 +12,7 @@ as of writting this version was TEdit 4.15
 
 Currently Ive Only Uploaded The Individual Units For Block Storage.
 Each Unit Contains A Chest Full of Whatever Tile or Wall The Unit is For, in a Small Stone Slab Display.
-Some of them still could use a little editing for better organization (ie dungeon walls and cursed variants arent organized as well as they should be, mud and mud wall are seprate, etc)
+Some of them still could use a little editing for better organization (ie dungeon walls and cursed variants arent organized as well as they should be, etc)
 eventually i will be making these changes as well as adding any missing blocks
 
 Future Additions Planned:
